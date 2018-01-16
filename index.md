@@ -15,6 +15,10 @@ Documentation is a programmer's best friend!
 ### Coming soon!
 Check back soon for more documentation and exciting developments!
 
+**Some Fun Links!**
+
+- [Project 01](/Project01)
+
 _Danne's to do List_
 
 1. Archive JS projects online
