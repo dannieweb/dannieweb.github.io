@@ -8,9 +8,9 @@ Dannie has been writing code for 20 years (and she's been getting paid to do it 
 
 Documentation is a programmer's best friend!
 
-- [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference](MDN JS - Teacher's favortite)
-- [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet](Git Markdown Cheatsheet)
-- [http://commonmark.org/help/](Markdown Quick Ref)
+- [MDN JS - Teacher's favortite](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
+- [Git Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- [Markdown Quick Ref](http://commonmark.org/help/)
 
 ### Coming soon!
 Check back soon for more documentation and exciting developments!
