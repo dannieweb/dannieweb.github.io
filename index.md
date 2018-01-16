@@ -1,33 +1,25 @@
 
 
-## Welcome to GitHub Pages
+## Welcome to Dannie's homepage!
 
-You can use the [editor on GitHub](https://github.com/dannieweb/dannieweb.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Dannie has been writing code for 20 years (and she's been getting paid to do it for 10 years!)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Documentation
 
-### Markdown
+Documentation is a programmer's best friend!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference](MDN JS - Teacher's favortite)
+- [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet](Git Markdown Cheatsheet)
+- [http://commonmark.org/help/](Markdown Quick Ref)
 
-# Header 1
-## Header 2
-### Header 3
+### Coming soon!
+Check back soon for more documentation and exciting developments!
 
-- Bulleted
-- List
+_Danne's to do List_
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dannieweb/dannieweb.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1. Archive JS projects online
+2. Document gaming mods
+3. Art portfolio
+4. Writing portfolio
+5. Storyboards and sequencing Portfolios
+6. PHP and SQL
