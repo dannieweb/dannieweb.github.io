@@ -2,9 +2,15 @@
 
 ## Welcome to Dannie's homepage!
 
-Dannie has been writing code for 20 years (and she's been getting paid to do it for 10 years!)
+This site is under construction. Check back soon for exciting developments!
 
-### Documentation
+### Online Portfolios
+
+- [Art and Graphic Design](http://dannieweb.tumblr.com)
+- [Technical Writing](http://danniewrite.tumblr.com)
+- [Programming](https://github.com/dannieweb)
+
+### Favorite Links
 
 Documentation is a programmer's best friend!
 
@@ -13,17 +19,14 @@ Documentation is a programmer's best friend!
 - [Markdown Quick Ref](http://commonmark.org/help/)
 
 ### Coming soon!
-Check back soon for more documentation and exciting developments!
 
-**Some Fun Links!**
-
-- [Project 01](/Project01)
+Everything from this point on is far less interesting.
 
 _Danne's to do List_
 
-1. Archive JS projects online
-2. Document gaming mods
-3. Art portfolio
-4. Writing portfolio
-5. Storyboards and sequencing Portfolios
-6. PHP and SQL
+1. Document gaming mods
+2. Storyboards and sequencing Portfolios
+3. PHP and SQL
+4. A+, Security+, Windows Server
+
+- [Internal Link](/Project01)
